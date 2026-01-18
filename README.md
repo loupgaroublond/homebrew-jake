@@ -28,9 +28,13 @@ BOOM. You've been slopped. Welcome to the family.
 
 | Slop | What Jake Says It Does |
 |------|----------------------|
-| *coming soon* | *the spillway is warming up* |
+| **[bv](https://github.com/Dicklesworthstone/beads_viewer)** | It's a TUI for your TASKS, friend! Kanban boards! Dependency GRAPHS! PageRank for your TODO list! It knows which task is blocking everything else and it will TELL YOU. Whether you LISTEN is your business. |
 
-(Check back later. The spillway never stops flowing.)
+```bash
+brew install loupgaroublond/jake/bv
+```
+
+(The spillway never stops flowing. More slop incoming.)
 
 ## The Fine Print
 
